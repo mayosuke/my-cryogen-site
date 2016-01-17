@@ -1,6 +1,6 @@
 {:title  "cryogenでコメント付きブログを作ってgithub pagesでホストする"
  :layout :post
- :tags   ["FJORDインターン" "cryogen" "github pages"]}
+ :tags   ["cryogen" "github pages"]}
 
 1. leiningenをインストールする
 1. cryogen プロジェクトを作成する
