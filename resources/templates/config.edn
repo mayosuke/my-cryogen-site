@@ -1,0 +1,25 @@
+{:site-title         "mayosuke.jp"
+ :author             "Yosuke MIYAJIMA"
+ :description        "This blog is awesome"
+ :site-url           "http://mayosuke.jp/"
+ :post-root          "posts"
+ :page-root          "pages"
+ :post-root-uri      "posts"
+ :page-root-uri      ""
+ :tag-root-uri       "tags"
+ :blog-prefix        ""
+ :rss-name           "feed.xml"
+ :rss-filters        ["cryogen"]
+ :recent-posts       3
+ :post-date-format   "yyyy-MM-dd"
+ :sass-src           nil
+ :sass-dest          nil
+ :theme              "blue"
+ :resources          ["img"]
+ :keep-files         [".git"]
+ :disqus?            true 
+ :disqus-shortname   "mayosuke"
+ :ignored-files      [#"\.#.*" #".*\.swp$"]
+ :posts-per-page     5
+ :blocks-per-preview 2
+ :previews?          false}
